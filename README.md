@@ -6,11 +6,9 @@
 
 ## 🌐 About Me
 
-- 👩 Pronouns: She/her
-- 🍥 含糖（易性症，女）但是我永远是男的
-- 💻 Tech Stack: Python | SQL | PHP
+
 - ☁️ Focus: Cloud Computing
-- 📨 Contact: biz-talk@corp.sko.pm
+
 
 ## 🚀 Skills & Interests
 - Python scripting for automation & data analysis
@@ -39,22 +37,6 @@ Thanks for stopping by! 欢迎通过邮箱联系我，或在 GitHub 留言～
 
 
 
-![alt text](image.png)
-
-> Hi Sako,  
->  
-> Thanks for contacting GitHub Support!  
->  
-> Sometimes our abuse detecting systems highlight accounts that need to be manually reviewed.  
->  
-> We've cleared the restrictions from your account, so you have full access to GitHub again.  
->  
-> Please let me know if you need anything else.  
->  
-> Regards,  
-> Jay - GitHub Support.
-
----
 
 ### 😤 我的账号终于解封了，但我真的很气！
 
